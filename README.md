@@ -7,3 +7,5 @@
 Testing:
 Integration test: Kovan
 Unit tests: Mainnet-fork (Mock all of Mainnet!)
+
+This demo is based on the chainlink-mix repo as presented in these tutorials: https://www.youtube.com/playlist?list=PLVP9aGDn-X0QwJVbQvuKr-zrh2_DV5M6J
