@@ -1,5 +1,5 @@
 # defi_aave_brownie
-This project is a demo of a back-end written in python / brownie, utilizing several smart-contracts in order to execute staking and borrowing on the defi-platform aave deployed to the Etherium-Blockchain. 
+This project is a demo of a back-end written in python / brownie, utilizing several smart-contracts in order to execute staking and borrowing on the defi-platform aave which is deployed to the Etherium-Blockchain. 
 
 To connect to the aave trading platform and execute the example trades, just install brownie and enter the following information into the file sample.env, then rename it to .env :
 
